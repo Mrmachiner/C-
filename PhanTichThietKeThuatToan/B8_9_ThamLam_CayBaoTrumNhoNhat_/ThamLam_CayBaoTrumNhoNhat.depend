@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543056653 source:/home/hvc/Documents/ThamLam_CayBaoTrumNhoNhat/main.cpp
+	<iostream>
+	<algorithm>
+
