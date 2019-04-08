@@ -1,0 +1,16 @@
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.exe.config
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.exe
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.pdb
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.exe
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.pdb
+E:\User_KEN\Documents\C++Projects\VisualStudio2015\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.csprojResolveAssemblyReference.cache
+F:\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.exe.config
+F:\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.exe
+F:\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.pdb
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.exe.config
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.exe
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\bin\Debug\EditSringDataList.pdb
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.csprojAssemblyReference.cache
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.csproj.CoreCompileInputs.cache
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.exe
+C:\Users\MinhHoang\Desktop\EditSringDataList\EditSringDataList\obj\Debug\EditSringDataList.pdb
